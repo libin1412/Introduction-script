@@ -1,8 +1,5 @@
-import calculate
-
-print("hello world")
+import pandas
+import calculate 
+print("hello world!")
 print(calculate.x)
-print("Hi again!")
-
-
-
+print("Hi again")
